@@ -1,0 +1,6 @@
+framework module Pods_MusicVote {
+  umbrella header "Pods-MusicVote-umbrella.h"
+
+  export *
+  module * { export * }
+}

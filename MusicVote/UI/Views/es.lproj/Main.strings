@@ -1,0 +1,49 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1DX-s7-kW4"; */
+"1DX-s7-kW4.text" = "Título";
+
+/* Class = "UILabel"; text = "Artist"; ObjectID = "2Ic-4v-95c"; */
+"2Ic-4v-95c.text" = "Artista";
+
+/* Class = "UILabel"; text = "Album"; ObjectID = "2La-Vb-XTd"; */
+"2La-Vb-XTd.text" = "Álbum";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "4RP-He-ilA"; */
+"4RP-He-ilA.normalTitle" = "Crear";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "5kS-Eh-m2i"; */
+"5kS-Eh-m2i.text" = "Título";
+
+/* Class = "UIViewController"; title = "Scan it!"; ObjectID = "C3y-Db-9b5"; */
+"C3y-Db-9b5.title" = "¡Escanéalo!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C8J-VM-nED"; */
+"C8J-VM-nED.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Create a playlist and share it with your friends or join into one and enjoy real-time collaborative playlists."; ObjectID = "Cwr-Mz-ymi"; */
+"Cwr-Mz-ymi.text" = "Crea una lista de reproducción y compártela con tus amigos o únete a una ya existente y disfruta colaborando en tiempo real.";
+
+
+/* Class = "UINavigationItem"; title = "Your Queue"; ObjectID = "En0-iB-ga8"; */
+"En0-iB-ga8.title" = "Tu Lista";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "LRc-Am-GwB"; */
+"LRc-Am-GwB.normalTitle" = "Unirse";
+
+/* Class = "UILabel"; text = "Album"; ObjectID = "Ywf-Vf-GQE"; */
+"Ywf-Vf-GQE.text" = "Álbum";
+
+/* Class = "UINavigationItem"; title = "MusicVote"; ObjectID = "iLD-CL-N6s"; */
+"iLD-CL-N6s.title" = "MusicVote";
+
+/* Class = "UILabel"; text = "Artist"; ObjectID = "nzq-qt-oVH"; */
+"nzq-qt-oVH.text" = "Artista";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "oCv-xu-HhP"; */
+"oCv-xu-HhP.text" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x0A-Pl-5Yw"; */
+"x0A-Pl-5Yw.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Welcome to MusicVote"; ObjectID = "xwE-Jf-47z"; */
+"xwE-Jf-47z.text" = "Bienvenido a MusicVote";
